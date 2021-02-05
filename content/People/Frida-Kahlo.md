@@ -1,4 +1,5 @@
-# Frida Kahlo
+Title: Frida Kahlo
+Date: 2020-02-05 15:02
 
 * _equivalent_ `Person` [Wikidata: Frida Kahlo](http://www.wikidata.org/entity/Q5588)
 * `Type` [Mexican](http://vocab.getty.edu/aat/300107963)

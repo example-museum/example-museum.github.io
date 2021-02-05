@@ -1,6 +1,7 @@
-# Rijksmuseum
+Title: Rijksmuseum
+Date: 2020-02-05 15:03
 
-* _equivalent_ [Wikidata](http://vocab.getty.edu/ulan/500246547)
+* _equivalent_ [ULAN](http://vocab.getty.edu/ulan/500246547)
 * 🔤 [museum](http://vocab.getty.edu/aat/300312281)
 
 

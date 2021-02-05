@@ -1,4 +1,5 @@
-# Whaam!
+Title: Whaam!
+Date: 2020-02-05 14:54
 
 * _equivalent_ [Wikidata](http://www.wikidata.org/entity/Q3567592)
 * _made of_ [acrylics](http://vocab.getty.edu/aat/300015058)

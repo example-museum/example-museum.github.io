@@ -1,4 +1,5 @@
-# I Can See the Whole Room...and There's Nobody in It!
+Title: I Can See the Whole Room...and There's Nobody in It!
+Date: 2020-02-05 14:55
 
 * _equivalent_ [Wikidata](http://www.wikidata.org/entity/Q5976596)
 * _shows_ [Visual Item](Visual-Works/I-Can-See-the-Whole-Room...and-There's-Nobody-in-It)
